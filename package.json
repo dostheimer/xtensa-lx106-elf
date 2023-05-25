@@ -6,7 +6,7 @@
           "version": "8.4.0+esp2020r3"
         },
         {
-          "system": ["darwin_x86_64", "darwin_i386"],
+          "system": ["darwin_arm64", "darwin_x86_64", "darwin_i386"],
           "url": "https://github.com/dostheimer/xtensa-lx106-elf/raw/master/xtensa-lx106-elf-gcc8_4_0-esp-2020r3-macos.tar.gz",
           "version": "8.4.0+esp2020r3"
         },
